@@ -4,11 +4,11 @@ title: CV
 sidebar_link: true
 ---
 
-Professional experience
-Max-Planck Institute for Developmental Biology in Tuebingen, Germany
-Aug 2012 - Now
-PhD Student
-My work was mainly focused on bioinformatic analysis of protein families requiring knowledge of biology, as well as software devoted to phylogeny and sequence analysis. I used Python to create simple tools for analysis on a large data sets and created a tool for finding repetitive patterns in biological data. PhD studies develop also unique skills in problem solving, analytical thinking, presentation of results in the form of oral presentations as well as writing reports and articles.
+<h2>Professional experience</h2>
+<p>Max-Planck Institute for Developmental Biology in Tuebingen, Germany</p>
+<p>Aug 2012 - Now</p>
+<p>PhD Student</p>
+<p>My work was mainly focused on bioinformatic analysis of protein families requiring knowledge of biology, as well as software devoted to phylogeny and sequence analysis. I used Python to create simple tools for analysis on a large data sets and created a tool for finding repetitive patterns in biological data. PhD studies develop also unique skills in problem solving, analytical thinking, presentation of results in the form of oral presentations as well as writing reports and articles.</p>
 
 Adam Mickiewicz University in Poznan, Poland
 Oct 2010 - Oct 2012

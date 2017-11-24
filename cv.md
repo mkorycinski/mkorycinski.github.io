@@ -12,12 +12,13 @@ sidebar_link: true
     <strong>PhD Student</strong>
     <dd>My work was mainly focused on bioinformatic analysis of protein families requiring knowledge of biology, as well as software devoted to phylogeny and sequence analysis. I used Python to create simple tools for analysis on a large data sets and created a tool for finding repetitive patterns in biological data. PhD studies develop also unique skills in problem solving, analytical thinking, presentation of results in the form of oral presentations as well as writing reports and articles.</dd>
 
+    <dt>Adam Mickiewicz University in Poznan, Poland</dt>
+    Oct 2010 - Oct 2012
+    <strong>MSc Student</strong>
+    <dd>During my Master's I was working on the project focused on analysis and modelling of protein complexes, which required knowledge in the field of biology, as well as basic programming skills in Python.</dd>
 </dl>
 
-Adam Mickiewicz University in Poznan, Poland
-Oct 2010 - Oct 2012
-MSc Student
-During my Master's I was working on the project focused on analysis and modelling of protein complexes, which required knowledge in the field of biology, as well as basic programming skills in Python.
+
 
 Young European Biotech Network
 2011 - 2012

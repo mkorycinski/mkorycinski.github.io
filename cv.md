@@ -8,13 +8,13 @@ layout: default
 
 **NASK - National and Scientific Computer Network**
 
-_Sep 2017 - Now_
+&nbsp;&nbsp;_Sep 2017 - Now_
 
-*Python Software Engineer in IT Security*
+&nbsp;&nbsp;*Python Software Engineer in IT Security*
 
-Technologies, tasks, etc.:
+&nbsp;&nbsp;Technologies, tasks, etc.:
 
-Python, MongoDB, Flask, RestAPI, multiprocessing, EnterpriseArchitect.
+&nbsp;&nbsp;Python, MongoDB, Flask, RestAPI, multiprocessing, EnterpriseArchitect.
 
 
 

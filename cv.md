@@ -6,11 +6,18 @@ sidebar_link: true
 
 ### Professional experience
 
-<dl>
-    <dt>Max-Planck Institute for Developmental Biology in Tuebingen, Germany<dt>
-    Aug 2012 - Now
-    <strong>PhD Student</strong>
-    <dd>My work was mainly focused on bioinformatic analysis of protein families requiring knowledge of biology, as well as software devoted to phylogeny and sequence analysis. I used Python to create simple tools for analysis on a large data sets and created a tool for finding repetitive patterns in biological data. PhD studies develop also unique skills in problem solving, analytical thinking, presentation of results in the form of oral presentations as well as writing reports and articles.</dd>
+**NASK - National and Scientific Computer Network**
+*Sep 2017 - Now*
+Python Software Engineer
+Responsibilities:
+  - Python
+  - MongoDB
+  - Enterprise Architect
+
+**Max-Planck Institute for Developmental Biology in Tuebingen, Germany**
+    Aug 2012 - Aug 2017
+    Scientific Assistant
+
 
     <dt>Adam Mickiewicz University in Poznan, Poland</dt>
     Oct 2010 - Oct 2012

@@ -16,6 +16,8 @@ Technologies, tasks, etc.:
 
 Python, MongoDB, Flask, RestAPI, multiprocessing, EnterpriseArchitect.
 
+
+
 **Max-Planck Institute for Developmental Biology in Tuebingen, Germany**
 
 _Aug 2012 - Aug 2017_
@@ -23,6 +25,8 @@ _Aug 2012 - Aug 2017_
 *Scientific Assistant*
 
 Working in bioinformatics.
+
+
 
 ## Education
 

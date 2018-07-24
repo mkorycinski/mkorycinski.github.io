@@ -36,7 +36,7 @@ layout: default
 
 &nbsp;&nbsp;*MSc, Bioinformatics*
 
-&nbsp;&nbsp;I was a student of a joint venture between two Poznan universities - Adam Mickiewicz University and Poznan University of Technology. Studies were focused on biology and computer science allowing graduates to combine expertise from these fields to solve biological problems. Even though focused on biological problems, curriculum included many technical aspects such as object oriented programming in Java and C/C++, project design, parallel computing etc.</dd>
+&nbsp;&nbsp;I was a student of a joint venture between two Poznan universities - Adam Mickiewicz University and Poznan University of Technology. Studies were focused on biology and computer science allowing graduates to combine expertise from these fields to solve biological problems. Even though focused on biological problems, curriculum included many technical aspects such as object oriented programming in Java and C/C++, project design, parallel computing etc.
 
 **Maria Curie-Sklodowska University, Lublin, Poland**
 

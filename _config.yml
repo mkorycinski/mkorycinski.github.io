@@ -27,7 +27,7 @@ url: https://mkorycinski.github.io # the base hostname & protocol for your site,
 #twitter_username: MatKorycinski
 #github_username:  mkorycinski
 
-color-scheme: light
+color-scheme: dark
 logo: /logo.png
 
 sidebar:

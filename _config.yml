@@ -21,8 +21,7 @@
 title: Mateusz Korycinski
 email: mateusz [.] korycinski [at] outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  AI Researcher and Python Developer analyzing medical data with AI.
-  #baseurl: /mkorycinski.github.io/ # the subpath of your site, e.g. /blog
+  AI Researcher analyzing medical data with AI.
 url: https://mkorycinski.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 color-scheme: dark

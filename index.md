@@ -37,7 +37,7 @@ Lis K., <span style='color:yellow'>Korycinski M.</span>, Ciecierski K. A., _Clas
 # Appearances
 ## 2023
 14/11/2023 [PL] \
-[Kongres Zdrowie Polaków - Debata plenarna "Medycyna i sztuczna inteligencja – wzajemny wpływ na rozwój"](https://www.youtube.com/live/wHJD-ytwMCU?si=CM_j9H3AdJAK_uNp&t=15236){:targe="_blank"}\
+[Kongres Zdrowie Polaków - Debata plenarna "Medycyna i sztuczna inteligencja – wzajemny wpływ na rozwój"](https://www.youtube.com/live/wHJD-ytwMCU?si=CM_j9H3AdJAK_uNp&t=15236){:targe="_blank"}
 
-03/06/2023 [PL]
+03/06/2023 [PL] \
 [Kongres Nauka Dla Społeczeństwa - Debata plenarna "Sztuczna inteligencja w medycynie"](https://www.youtube.com/live/H8cWPI6VB-E?si=RQfr0KlMzSYgMxcC&t=2119){:targe="_blank"}

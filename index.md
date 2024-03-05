@@ -14,7 +14,7 @@ _Sep 2015 - currently_\
 AI Researcher and Senior Software Engineer
 
 ## Education
-_Oct 2019 - Feb 2024\
+Oct 2019 - Feb 2024\
 **PhD, Polish Academy of Sciences, Warsaw, Poland**\
 Dissertation: ”A Hybrid Method for Tractography in Neurosurgery Using Artificial Neural Networks and Path Search Algorithms”
 

@@ -19,7 +19,7 @@ Oct 2019 - Feb 2024\
 Dissertation: ”A Hybrid Method for Tractography in Neurosurgery Using Artificial Neural Networks and Path Search Algorithms”
 
 
-Full CV : [EN](./cv/cv_en.pdf){:target="_blank"} | [PL](./cv/cv_pl.pdf){:target="_blank"}
+Full CV : [EN](./cv/cv_en.pdf){:target="_blank"} \| [PL](./cv/cv_pl.pdf){:target="_blank"}
 
 # Publications
 

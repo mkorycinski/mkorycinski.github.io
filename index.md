@@ -31,6 +31,8 @@ Most relevant papers I contributed to:
 
 Lis K., <b>Korycinski M.</b>, Ciecierski K. A., _Classification of masked image data_, PLoS One, 2021, [10.1371/journal.pone.0254181](https://doi.org/10.1371/journal.pone.0254181){:target="_blank"}, [[PDF]](/papers/2021/journal.pone.0254181.pdf){:target="_blank"}
 
+Full list can be found [here](https://scholar.google.com/citations?user=-sygxZsAAAAJ).
+
 # Appearances
 ## 2023
 14/11/2023 [PL] \

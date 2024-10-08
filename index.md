@@ -2,13 +2,17 @@
 layout: default
 ---
 
-I am an AI Researcher at [NASK](https://en.nask.pl/){:target="_blank"}. 
+I am an AI researcher at [NASK](https://en.nask.pl/){:target="_blank"} and an assistant professor at the Warsaw University of Technology. 
 My main research interests focus on using deep learning for tractography, MRI and medical data analysis, as well as image cognition.
 
 
 # CV
 
 ## Employment
+_Oct 2024 - currently_\
+**Warsaw University of Technology**\
+Assistant Professor at the Institute of Control and Computation Engineering, Faculty of Electronics and Information Technology
+
 _Sep 2015 - currently_\
 **NASK National Research Institute**\
 AI Researcher and Senior Software Engineer

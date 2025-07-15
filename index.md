@@ -29,7 +29,7 @@ Full CV : [EN](./cv/cv_en.pdf){:target="_blank"} \| [PL](./cv/cv_pl.pdf){:target
 
 Most relevant papers I contributed to:
 
-<span style='color:#FDDD5C'><b>Korycinski M.</b></span>, Ciecierski K. A., Niewiadomska-Szynkiewicz E., __HyTract: Advancing tractography for neurosurgical planning with a hybrid method integrating neural networks and a path search algorithm_, Neural Networks, 2025,  doi.org/10.1016/j.neunet.2025.107624{:target="_blank"}, [[PDF]](/papers/2025/1-s2.0-S0893608025005040-main.pdf){:target="_blank"}
+<span style='color:#FDDD5C'><b>Korycinski M.</b></span>, Ciecierski K. A., Niewiadomska-Szynkiewicz E., __HyTract: Advancing tractography for neurosurgical planning with a hybrid method integrating neural networks and a path search algorithm_, Neural Networks, 2025,  [10.1016/j.neunet.2025.107624](https://doi.org/10.1016/j.neunet.2025.107624){:target="_blank"}, [[PDF]](/papers/2025/1-s2.0-S0893608025005040-main.pdf){:target="_blank"}
 
 <span style='color:#FDDD5C'><b>Korycinski M.</b></span>, Ciecierski K. A., Niewiadomska-Szynkiewicz E., _Neural fiber prediction with deep learning_, 10th International Workshop on e-Health Pervasive Wireless Applications and Services 2022 [[PDF]](/papers/2022/mkorycinski_wimob2022_1570831080.pdf){:target="_blank"}
 

@@ -45,4 +45,4 @@ Full list can be found [here](https://scholar.google.com/citations?user=-sygxZsA
 03/06/2023 [PL] \
 [Kongres Nauka Dla Społeczeństwa - Debata plenarna "Sztuczna inteligencja w medycynie"](https://www.youtube.com/live/H8cWPI6VB-E?si=RQfr0KlMzSYgMxcC&t=2119){:target="_blank"}
 
-<a href="mailto:michas1@maly.pl"><span style='color:#000000'>michas1@maly.pl</span></a>
+<a href="mailto:michas1@maly.pl"><span style='color:var(--clr-bg);'>michas1@maly.pl</span></a>
